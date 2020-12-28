@@ -1,4 +1,4 @@
-## Biography
+## About
 Xiubo Geng is a Senior Applied Scientist in Microsoft STCA (Software Technology Center Asia). Her research interest includes machine learning, question answering, knowledge base, ranking, etc. She received her B.E. degree in Computer Science from University of Science and Technology of China,  and her PhD degree from Institute of Computing Technology, Chinese Academy of Sciences. She has published a dozen of papers in top conferences including SIGIR, EMNLP, WWW, NIPS, IJCAI etc.
 
 ## Publications
@@ -12,3 +12,6 @@ Xiubo Geng is a Senior Applied Scientist in Microsoft STCA (Software Technology 
 - **Xiubo Geng**, Tie-Yan Liu, Tao Qin, Andrew Arnold, Hang Li, Heung-Yeung Shum. The 31st annual international ACM SIGIR conference on Research and development in information retrieval (SIGIR 2008).
 - **Xiubo Geng**, Tie-Yan Liu, Tao Qin, Hang Li. Feature Selection for Ranking. The 30th annual international ACM SIGIR conference on Research and development in information retrieval (SIGIR 2007).
 
+## Contact
+Email: xigeng@microsoft.com
+Address: 5 Danling Street, Haidian District Beijing, China, 100080
