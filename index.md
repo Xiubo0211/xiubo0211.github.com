@@ -1,5 +1,5 @@
 ## About
-Xiubo Geng is a Senior Applied Scientist in Microsoft STCA (Software Technology Center Asia). Her research interest includes machine learning, question answering, knowledge base, ranking, etc. She received her B.E. degree in Computer Science from University of Science and Technology of China,  and her PhD degree from Institute of Computing Technology, Chinese Academy of Sciences. She has published a dozen of papers in top conferences including SIGIR, EMNLP, WWW, NIPS, IJCAI etc.
+Xiubo Geng is a Senior Applied Scientist in Microsoft STCA (Software Technology Center Asia). Her research interest includes interpretable reasoning in NLP, question answering, semantic parsing, cross-lingual KBQA, etc. She received her B.E. degree in Computer Science from University of Science and Technology of China,  and her PhD degree from Institute of Computing Technology, Chinese Academy of Sciences. She has published a dozen of papers in top conferences including SIGIR, EMNLP, WWW, NIPS, IJCAI etc.
 
 ## Publications
 - Mucheng Ren, **Xiubo Geng**, Tao Qin, Heyan Huang, Daxin Jiang. Towards Interpretable Reasoning over Paragraph Effects in Situation. The 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020).
