@@ -1,8 +1,8 @@
 Xiubo Geng is a Senior Applied Scientist in Microsoft STCA (Software Technology Center Asia). Her research interest includes interpretable reasoning in NLP, question answering, semantic parsing, cross-lingual KBQA, etc. She received her B.E. degree in Computer Science from University of Science and Technology of China,  and her PhD degree from Institute of Computing Technology, Chinese Academy of Sciences. She has published a dozen of papers in top conferences including SIGIR, EMNLP, WWW, NIPS, IJCAI etc.
 
 ## Publications
-- Qian Liu, **Xiubo Geng**, Jie Lu, Daxin Jiang. Pivot-Based Candidate Retrieval for Cross-lingual Entity Linking. The 30th Web Conference (WWW 2021).
-- Zhihan Zhang, **Xiubo Geng**, Tao Qin, Yunfang Wu, Daxin Jiang. Knowledge-Aware Procedual Text Understanding with Multi-Stage Training. The 30th Web Conference (WWW 2021).
+- Qian Liu, **Xiubo Geng**, Jie Lu, Daxin Jiang. Pivot-Based Candidate Retrieval for Cross-lingual Entity Linking. The 30th International Conference on World Wide Web (WWW 2021).
+- Zhihan Zhang, **Xiubo Geng**, Tao Qin, Yunfang Wu, Daxin Jiang. Knowledge-Aware Procedual Text Understanding with Multi-Stage Training. The 30th International Conference on World Wide Web (WWW 2021).
 - Mucheng Ren, **Xiubo Geng**, Tao Qin, Heyan Huang, Daxin Jiang. Towards Interpretable Reasoning over Paragraph Effects in Situation. The 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020).
 - Ping Nie, Yuyu Zhang, **Xiubo Geng**, Arun Ramamurthy, Le Song, Daxin Jiang. The 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2020).
 - Tao Shen, **Xiubo Geng**, Tao Qin, Guodong Long, Jing Jiang, Daxin Jiang. Effective Search of Logical Forms for Weakly Supervised Knowledge-Based Question Answering.  The 29th International Joint Conference on Artificial Intelligence (IJCAI-PRICAI 2020).
