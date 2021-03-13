@@ -1,6 +1,7 @@
 Xiubo Geng is a Senior Applied Scientist in Microsoft STCA (Software Technology Center Asia). Her research interest includes interpretable reasoning in NLP, question answering, semantic parsing, cross-lingual KBQA, etc. She received her B.E. degree in Computer Science from University of Science and Technology of China,  and her PhD degree from Institute of Computing Technology, Chinese Academy of Sciences. She has published a dozen of papers in top conferences including SIGIR, EMNLP, WWW, NIPS, IJCAI etc.
 
 ## Publications
+- Yucheng Zhou, **Xiubo Geng**, Tao Shen, Wenqiang Zhang, Daxin Jiang. Improving Zero-Shot Cross-lingual Transfer for Multilingual Question Answering over Knowledge Graph. 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL-HLT 2021).
 - Qian Liu, **Xiubo Geng**, Jie Lu, Daxin Jiang. Pivot-Based Candidate Retrieval for Cross-lingual Entity Linking. The 30th International Conference on World Wide Web (WWW 2021).
 - Zhihan Zhang, **Xiubo Geng**, Tao Qin, Yunfang Wu, Daxin Jiang. Knowledge-Aware Procedual Text Understanding with Multi-Stage Training. The 30th International Conference on World Wide Web (WWW 2021).
 - Mucheng Ren, **Xiubo Geng**, Tao Qin, Heyan Huang, Daxin Jiang. Towards Interpretable Reasoning over Paragraph Effects in Situation. The 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020).
