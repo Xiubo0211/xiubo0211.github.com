@@ -3,6 +3,7 @@ Xiubo Geng is a Senior Applied Scientist in Microsoft STCA (Software Technology 
 ## Publications
 
 **2021**
+- Qian Liu, **Xiubo Geng**, Heyan Huang; Tao Qin; Jie Lu; Daxin Jiang. MGRC: An End-to-End Multi-Granularity Reading Comprehension Model for Question Answering. The IEEE Transactions on Neural Networks and Learning System (TNNLS).
 - Hao Huang, **Xiubo Geng**, Jian Pei, Guodong Long, Daxin Jiang. Reasoning over Entity-Action-Location Graph for Procedural Text Understanding. The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021 main conference).
 - Jia-Chen Gu, Chongyang Tao, Zhenhua Ling, Can Xu, **Xiubo Geng**, Daxin Jiang. MPC-BERT: A Pre-Trained Language Model for Multi-Party Conversation Understanding. The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021 main conference).
 - Zujie Liang, Huang Hu, Can Xu, Chongyang Tao, **Xiubo Geng**, yining Chen, Fan Liang, Daxin Jiang. Maria: A Visual Experience Powered Conversational Agent. The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021 main conference).
