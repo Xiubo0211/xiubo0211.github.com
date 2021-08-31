@@ -1,8 +1,13 @@
 Xiubo Geng is a Senior Applied Scientist in Microsoft STCA (Software Technology Center Asia). Her research interest includes interpretable reasoning in NLP, question answering, semantic parsing, cross-lingual KBQA, etc. She received her B.E. degree in Computer Science from University of Science and Technology of China,  and her PhD degree from Institute of Computing Technology, Chinese Academy of Sciences. She has published a dozen of papers in top conferences including ACL, SIGIR, EMNLP, WWW, NeurIPS, IJCAI, NAACL etc.
 
+## Tutorials
+- Tutorial on [language scaling: Applications, Challenges and Approach](https://languagescalingkdd.github.io/) at KDD 2021
+- Tutorial on [language scaling: Applications, Challenges and Approach](https://languagescaling.github.io/) at WWW 2021
+
 ## Publications
 
 **2021**
+- Zujie Liang, Huang Hu, Can Xu, Jian Miao, Yingying He, yining Chen, **Xiubo Geng**, Fan Liang and Daxin Jiang. Learning Neural Templates for Recommender Dialogue System. The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021).
 - Qian Liu, **Xiubo Geng**, Heyan Huang; Tao Qin; Jie Lu; Daxin Jiang. MGRC: An End-to-End Multi-Granularity Reading Comprehension Model for Question Answering. The IEEE Transactions on Neural Networks and Learning System (TNNLS).
 - Hao Huang, **Xiubo Geng**, Jian Pei, Guodong Long, Daxin Jiang. Reasoning over Entity-Action-Location Graph for Procedural Text Understanding. The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021 main conference).
 - Jia-Chen Gu, Chongyang Tao, Zhenhua Ling, Can Xu, **Xiubo Geng**, Daxin Jiang. MPC-BERT: A Pre-Trained Language Model for Multi-Party Conversation Understanding. The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021 main conference).
