@@ -18,7 +18,7 @@ Xiubo Geng is a Senior Applied Scientist in Microsoft STCA (Software Technology 
 - Yucheng Zhou, **Xiubo Geng**, Tao Shen, Wenqiang Zhang, Daxin Jiang. Improving Zero-Shot Cross-lingual Transfer for Multilingual Question Answering over Knowledge Graph. NAACL-HLT 2021.
 - Qian Liu, **Xiubo Geng**, Jie Lu, Daxin Jiang. Pivot-Based Candidate Retrieval for Cross-lingual Entity Linking. WWW 2021.
 - Zhihan Zhang, **Xiubo Geng**, Tao Qin, Yunfang Wu, Daxin Jiang. Knowledge-Aware Procedual Text Understanding with Multi-Stage Training. WWW 2021.
-- 
+
 **2020**
 - Mucheng Ren, **Xiubo Geng**, Tao Qin, Heyan Huang, Daxin Jiang. Towards Interpretable Reasoning over Paragraph Effects in Situation. EMNLP 2020.
 - Ping Nie, Yuyu Zhang, **Xiubo Geng**, Arun Ramamurthy, Le Song, Daxin Jiang. DC-BERT: Decoupling Question and Document for Efficient Contextual Encoding. SIGIR 2020 short.
