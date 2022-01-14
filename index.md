@@ -26,7 +26,7 @@ Xiubo Geng is a Principle Applied Scientist in Microsoft STCA (Software Technolo
 
 **2019 and Before**
 - Tao Shen, **Xiubo Geng**, Tao Qin, Daya Guo, Duyu Tang, Nan Duan, Guodong Long, Daxin Jiang. Multi-Task Learning for Conversational Question Answering over a Large-Scale Knowledge Base. EMNLP-IJCNLP 2019.
-- Shuzi Niu, Yanyan Lan, Jiafeng Guo, Xueqi Cheng, **Xiubo Geng**. What Makes Data Robust: A Data Analysis in Learning to Rank. SIGIR 2014.
+- Shuzi Niu, Yanyan Lan, Jiafeng Guo, Xueqi Cheng, **Xiubo Geng**. What Makes Data Robust: A Data Analysis in Learning to Rank. SIGIR 2014 short.
 - **Xiubo Geng**, Xin Fan, Jiang Bian, Xin Li, Zhaohui Zheng. Optimizing User Exploring Experience in Emerging E-Commerce Products. WWW 2012.
 - Tao Qin, **Xiubo Geng**, Tie-Yan Liu. A New Probabilistic Model for Rank Aggregation. NIPS 2010.
 - **Xiubo Geng**, Tie-Yan Liu, Tao Qin, Andrew Arnold, Hang Li, Heung-Yeung Shum. Query dependent ranking using k-nearest neighbor. SIGIR 2008.
