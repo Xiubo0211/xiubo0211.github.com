@@ -6,6 +6,11 @@ Xiubo Geng is a Principle Applied Scientist in Microsoft STCA (Software Technolo
 
 ## Publications
 **2022**
+- Yufei Wang, Can Xu, Qingfeng Sun, Huang Hu, Chongyang Tao, **Xiubo Geng**, Daxin Jiang. Prompt-based Data Augmentation for Low-Resource NLU Tasks. ACL 2022.
+- Yucheng Zhou, Tao Shen, **Xiubo Geng**, Guodong Long, Daxin Jiang. ClarET: Pre-training a Correlation-Aware Context-To-Event Transformer for Event-Centric Generation and Classification. ACL 2022.
+- Jia-Chen Gu, Chao-Hong Tan, Chongyang Tao, Zhen-Hua Ling, Huang Hu, **Xiubo Geng**, Daxin Jiang. HeterMPC: A Heterogeneous Graph Neural Network for Response Generation in Multi-Party Conversations. ACL 2022.
+- Qingfeng Sun, Yujing Wang, Can Xu, Kai Zheng, Yaming Yang, Huang Hu, Fei Xu, Jessica Zhang, **Xiubo Geng**, Daxin Jiang. Multimodal Dialogue Response Generation. ACL 2022.
+- Chao-Hong Tan, Jia-Chen Gu, Chongyang Tao, Zhen-Hua Ling, Can Xu, Huang Hu, **Xiubo Geng**, Daxin Jiang. TegTok: Augmenting Text Generation via Task-specific and Open-world Knowledge. ACL 2022 Findings.
 - Yucheng Zhou, **Xiubo Geng**, Tao Shen, Guodong Long, Daxin Jiang. EventBERT: A Pre-Trained Model for Event Correlation Reasoning. WWW 2022.
 
 **2021**
