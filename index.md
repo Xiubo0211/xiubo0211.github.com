@@ -6,6 +6,8 @@ Xiubo Geng is a Principle Applied Scientist manager in Microsoft STCA (Software 
 
 ## Publications
 **2022**
+- Qiyu Wu, Chongyang Tao, Tao Shen, Can Xu, **Xiubo Geng** and Daxin Jiang. Peer-Contrastive Learning with Diverse Augmentations for Unsupervised Sentence Embeddings. EMNLP 2022.
+- Tao Shen, **Xiubo Geng**, Daxin Jiang. Social Norms-Grounded Machine Ethics in Complex Narrative Situation. COLING 2022.
 - Hao Huang, **Xiubo Geng**, Guodong Long, Daxin Jiang. Understand before Answer: Improve Temporal Reading Comprehension via Precise Question Understanding. NAACL 2022.
 - Qingfeng Sun, Can Xu, Huang Hu, Yujing Wang, Jian Miao, **Xiubo Geng**, Yining Chen, Fei Xu, Daxin Jiang. Stylized Knowledge-Grounded Dialogue Generation via Disentangled Template Rewriting. NAACL 2022.
 - Yufei Wang, Can Xu, Qingfeng Sun, Huang Hu, Chongyang Tao, **Xiubo Geng**, Daxin Jiang. Prompt-based Data Augmentation for Low-Resource NLU Tasks. ACL 2022.
