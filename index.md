@@ -6,6 +6,7 @@ Xiubo Geng is a Principle Applied Scientist manager in Microsoft STCA (Software 
 
 ## Publications
 **2022**
+- Qian Liu, **Xiubo Geng**, Yu Wang, Erik Cambria, Daxin Jiang. Disentangled Retrieval and Reasoning for Implicit Question Answering. The IEEE Transactions on Neural Networks and Learning System (TNNLS).
 - Qian Liu, Rui Mao, **Xiubo Geng**, Erik Cambria. Semantic Matching in Machine Reading Comprehension: An Empirical Study. Information Processing and Management.
 - Qiyu Wu, Chongyang Tao, Tao Shen, Can Xu, **Xiubo Geng** and Daxin Jiang. Peer-Contrastive Learning with Diverse Augmentations for Unsupervised Sentence Embeddings. EMNLP 2022.
 - Tao Shen, **Xiubo Geng**, Daxin Jiang. Social Norms-Grounded Machine Ethics in Complex Narrative Situation. COLING 2022.
