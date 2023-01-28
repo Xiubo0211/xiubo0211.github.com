@@ -5,6 +5,11 @@ Xiubo Geng is a Principle Applied Scientist manager in Microsoft STCA (Software 
 - Tutorial on [language scaling: Applications, Challenges and Approach](https://languagescaling.github.io/) at WWW 2021
 
 ## Publications
+**2023**
+- Tao Shen, **Xiubo Geng**, Chongyang Tao, Can Xu, Xiaolong Huang, Binxing Jiao, Linjun Yang, Daxin Jiang. LexMAE: Lexicon-Bottlenecked Pretraining for Large-Scale Retrieval. ICLR 2023.
+- Yufei Wang, Jiayi Zheng, Can Xu, **Xiubo Geng**, Tao Shen, Chongyang Tao, Daxin Jiang. KnowDA: All-in-One Knowledge Mixture Model for Data Augmentation in Low-Resource NLP. ICLR 2023.
+- ZeFeng Cai, Chongyang Tao, Tao Shen, Can Xu, **Xiubo Geng**, Xin Alex Lin, Liang He, Daxin Jiang. HypeR: Multitask Hyper-Prompted Training Enables Large-Scale Retrieval Generalization. ICLR 2023.
+
 **2022**
 - Qian Liu, **Xiubo Geng**, Yu Wang, Erik Cambria, Daxin Jiang. Disentangled Retrieval and Reasoning for Implicit Question Answering. The IEEE Transactions on Neural Networks and Learning System (TNNLS).
 - Qian Liu, Rui Mao, **Xiubo Geng**, Erik Cambria. Semantic Matching in Machine Reading Comprehension: An Empirical Study. Information Processing and Management.
