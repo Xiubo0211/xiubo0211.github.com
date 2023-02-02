@@ -1,14 +1,11 @@
 Xiubo Geng is a Principle Applied Scientist manager in Microsoft STCA (Software Technology Center Asia). Her research interest includes dense retrieval, large-scale model pre-training, interpretable reasoning in NLP, question answering, semantic parsing, cross-lingual KBQA, dialogue generation etc. She received her B.E. degree in Computer Science from University of Science and Technology of China,  and her PhD degree from Institute of Computing Technology, Chinese Academy of Sciences. She has published a dozen of papers in top conferences including ACL, SIGIR, EMNLP, WWW, NeurIPS, IJCAI, NAACL etc.
 
-## Tutorials
-- Tutorial on [language scaling: Applications, Challenges and Approach](https://languagescalingkdd.github.io/) at KDD 2021
-- Tutorial on [language scaling: Applications, Challenges and Approach](https://languagescaling.github.io/) at WWW 2021
-
 ## Publications
 **2023**
 - Tao Shen, **Xiubo Geng**, Chongyang Tao, Can Xu, Xiaolong Huang, Binxing Jiao, Linjun Yang, Daxin Jiang. LexMAE: Lexicon-Bottlenecked Pretraining for Large-Scale Retrieval. ICLR 2023.
 - Yufei Wang, Jiayi Zheng, Can Xu, **Xiubo Geng**, Tao Shen, Chongyang Tao, Daxin Jiang. KnowDA: All-in-One Knowledge Mixture Model for Data Augmentation in Low-Resource NLP. ICLR 2023.
 - ZeFeng Cai, Chongyang Tao, Tao Shen, Can Xu, **Xiubo Geng**, Xin Alex Lin, Liang He, Daxin Jiang. HypeR: Multitask Hyper-Prompted Training Enables Large-Scale Retrieval Generalization. ICLR 2023.
+- Kai Zhang, Chongyang Tao, Tao Shen, Can Xu, **Xiubo Geng**, Binxing Jiao, Daxin Jiang. LED: Lexicon-Enlightened Dense Retriever for Large-Scale Retrieval. WWW 2023.
 
 **2022**
 - Qian Liu, **Xiubo Geng**, Yu Wang, Erik Cambria, Daxin Jiang. Disentangled Retrieval and Reasoning for Implicit Question Answering. The IEEE Transactions on Neural Networks and Learning System (TNNLS).
@@ -47,6 +44,10 @@ Xiubo Geng is a Principle Applied Scientist manager in Microsoft STCA (Software 
 - Tao Qin, **Xiubo Geng**, Tie-Yan Liu. A New Probabilistic Model for Rank Aggregation. NIPS 2010.
 - **Xiubo Geng**, Tie-Yan Liu, Tao Qin, Andrew Arnold, Hang Li, Heung-Yeung Shum. Query dependent ranking using k-nearest neighbor. SIGIR 2008.
 - **Xiubo Geng**, Tie-Yan Liu, Tao Qin, Hang Li. Feature Selection for Ranking. SIGIR 2007.
+
+## Tutorials
+- Tutorial on [language scaling: Applications, Challenges and Approach](https://languagescalingkdd.github.io/) at KDD 2021
+- Tutorial on [language scaling: Applications, Challenges and Approach](https://languagescaling.github.io/) at WWW 2021
 
 ## Contact
 Email: xigeng@microsoft.com
