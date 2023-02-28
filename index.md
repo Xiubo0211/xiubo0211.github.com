@@ -2,6 +2,7 @@ Xiubo Geng is a Principle Applied Scientist manager in Microsoft STCA (Software 
 
 ## Publications
 **2023**
+- Meng Cao, Fangyun Wei, Can Xu, **Xiubo Geng**, Long Chen, Can Zhang, Yuexian Zou, Tao Shen, Daxin Jiang. Iterative Proposal Refinement for Weakly-Supervised Video Grounding. CVPR 2023
 - Tao Shen, **Xiubo Geng**, Chongyang Tao, Can Xu, Xiaolong Huang, Binxing Jiao, Linjun Yang, Daxin Jiang. LexMAE: Lexicon-Bottlenecked Pretraining for Large-Scale Retrieval. ICLR 2023.
 - Yufei Wang, Jiayi Zheng, Can Xu, **Xiubo Geng**, Tao Shen, Chongyang Tao, Daxin Jiang. KnowDA: All-in-One Knowledge Mixture Model for Data Augmentation in Low-Resource NLP. ICLR 2023.
 - ZeFeng Cai, Chongyang Tao, Tao Shen, Can Xu, **Xiubo Geng**, Xin Alex Lin, Liang He, Daxin Jiang. HypeR: Multitask Hyper-Prompted Training Enables Large-Scale Retrieval Generalization. ICLR 2023.
