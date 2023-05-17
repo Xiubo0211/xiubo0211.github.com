@@ -2,6 +2,10 @@ Xiubo Geng is a Principle Applied Scientist manager in Microsoft STCA (Software 
 
 ## Publications
 **2023**
+- Tao Shen, **Xiubo Geng**, Chongyang Tao, Can Xu, Guodong Long, Kai Zhang, Daxin Jiang. UnifieR: A Unified Retriever for Large-Scale Retrieval. KDD 2023.
+- Chongyang Tao, Jiazhan Feng, Tao Shen, Chang Liu, Juntao Li, **Xiubo Geng** and Daxin Jiang. CORE: Cooperative Training of Retriever-Reranker for Effective Dialogue Response Selection. ACL 2023.
+- Zhen Li, Chongyang Tao, Jiazhan Feng, Tao Shen, Dongyan Zhao, **Xiubo Geng** and Daxin Jiang. FAA: Fine-grained Attention Alignement for Cascade Document Ranking. ACL 2023.
+- Yucheng Zhou, Tao Shen, **Xiubo Geng**, Chongyang Tao, Can Xu, Guodong Long, Binxing Jiao and Daxin Jiang. Towards Robust Ranker for Text Retrieval. ACL 2023 Findings.
 - Meng Cao, Fangyun Wei, Can Xu, **Xiubo Geng**, Long Chen, Can Zhang, Yuexian Zou, Tao Shen, Daxin Jiang. Iterative Proposal Refinement for Weakly-Supervised Video Grounding. CVPR 2023
 - Tao Shen, **Xiubo Geng**, Chongyang Tao, Can Xu, Xiaolong Huang, Binxing Jiao, Linjun Yang, Daxin Jiang. LexMAE: Lexicon-Bottlenecked Pretraining for Large-Scale Retrieval. ICLR 2023.
 - Yufei Wang, Jiayi Zheng, Can Xu, **Xiubo Geng**, Tao Shen, Chongyang Tao, Daxin Jiang. KnowDA: All-in-One Knowledge Mixture Model for Data Augmentation in Low-Resource NLP. ICLR 2023.
